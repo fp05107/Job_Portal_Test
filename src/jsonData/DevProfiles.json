@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Barbara Prusiewicz",
+    "role": "Freelance React Developer",
+    "isVerified": true,
+    "expertise": "Engineering",
+    "timezone": "UTC-10:00",
+    "location": "United States",
+    "memberSince": "February 27, 2020",
+    "fullDescription": "Barbara is a full-stack developer specializing in front-end development with expertise in React frameworks. Her passion is bringing user experiences to life. She was a software architect (C/C++) for point-of-sale terminals. Barbara is a full-stack developer specializing in front-end development with expertise in React frameworks. Her passion is bringing user experiences to life. She was a software architect (C/C++) for point-of-sale terminals.",
+    "skills": ["React.js", "JavaScript", "Redux", "Git", "HTML5", "CSS", "Software Development"]
+  },
+  {
+    "name": "Raj Patel",
+    "role": "Senior React Developer",
+    "isVerified": true,
+    "expertise": "Frontend Architecture",
+    "timezone": "UTC+05:30",
+    "location": "India",
+    "memberSince": "March 15, 2019",
+    "fullDescription": "Raj has 10+ years of experience in frontend technologies. He specializes in React, performance optimization, and building scalable design systems. He's worked with Fortune 500 companies on B2B apps. Raj has 10+ years of experience in frontend technologies. He specializes in React, performance optimization, and building scalable design systems. He's worked with Fortune 500 companies on B2B apps.",
+    "skills": ["React", "TypeScript", "Next.js", "Jest", "Cypress", "Tailwind CSS"]
+  },
+  {
+    "name": "Lena Kim",
+    "role": "UI/React Engineer",
+    "isVerified": false,
+    "expertise": "Design Systems",
+    "timezone": "UTC+09:00",
+    "location": "South Korea",
+    "memberSince": "July 3, 2021",
+    "fullDescription": "Lena is passionate about UI performance and accessibility. She has built enterprise-grade dashboards and contributed to open-source React UI kits. Lena is passionate about UI performance and accessibility. She has built enterprise-grade dashboards and contributed to open-source React UI kits.",
+    "skills": ["React", "Styled Components", "Accessibility", "GraphQL", "Storybook"]
+  },
+  {
+    "name": "Carlos Mendes",
+    "role": "Remote React Developer",
+    "isVerified": true,
+    "expertise": "Web Applications",
+    "timezone": "UTC-03:00",
+    "location": "Brazil",
+    "memberSince": "May 12, 2020",
+    "fullDescription": "Carlos has 8+ years of experience building web apps. He is skilled in integrating RESTful and GraphQL APIs, and building scalable frontends. Carlos has 8+ years of experience building web apps. He is skilled in integrating RESTful and GraphQL APIs, and building scalable frontends.",
+    "skills": ["React", "Next.js", "Firebase", "SEO", "SCSS", "Git"]
+  },
+  {
+    "name": "Amelia Thompson",
+    "role": "Frontend Developer",
+    "isVerified": false,
+    "expertise": "React Ecosystem",
+    "timezone": "UTC+01:00",
+    "location": "United Kingdom",
+    "memberSince": "January 5, 2022",
+    "fullDescription": "Amelia focuses on UI/UX and accessibility. She contributes to design systems and works with teams to ship delightful frontend experiences. Amelia focuses on UI/UX and accessibility. She contributes to design systems and works with teams to ship delightful frontend experiences.",
+    "skills": ["React", "Tailwind", "Figma", "CSS Modules", "Jest"]
+  },
+  {
+    "name": "Kenji Yamada",
+    "role": "React + Typescript Dev",
+    "isVerified": true,
+    "expertise": "Type Safety",
+    "timezone": "UTC+09:00",
+    "location": "Japan",
+    "memberSince": "August 11, 2018",
+    "fullDescription": "Kenji writes production-grade code using TypeScript, React, and state management libraries like Zustand and Redux Toolkit. He builds robust component systems.",
+    "skills": ["React", "TypeScript", "Redux Toolkit", "Zustand", "Vite", "Vitest"]
+  },
+  {
+    "name": "Sophie Dubois",
+    "role": "React & GraphQL Engineer",
+    "isVerified": true,
+    "expertise": "Data-Driven UIs",
+    "timezone": "UTC+02:00",
+    "location": "France",
+    "memberSince": "October 30, 2019",
+    "fullDescription": "Sophie builds scalable and maintainable frontends. She excels in performance tuning, modular architecture, and data-heavy UI rendering using GraphQL.",
+    "skills": ["React", "GraphQL", "Apollo", "React Query", "Tailwind", "Testing Library"]
+  },
+  {
+    "name": "Tomislav Horvat",
+    "role": "React Native + Web Developer",
+    "isVerified": false,
+    "expertise": "Cross-Platform",
+    "timezone": "UTC+01:00",
+    "location": "Croatia",
+    "memberSince": "June 20, 2021",
+    "fullDescription": "Tomislav specializes in building apps for both Android/iOS and web using shared logic and UI components. He optimizes for performance and offline availability.",
+    "skills": ["React Native", "React", "Expo", "Redux", "AsyncStorage"]
+  },
+  {
+    "name": "Natalie Nguyen",
+    "role": "React Performance Specialist",
+    "isVerified": true,
+    "expertise": "Optimization",
+    "timezone": "UTC-08:00",
+    "location": "Canada",
+    "memberSince": "September 7, 2017",
+    "fullDescription": "Natalie is known for improving load times and optimizing complex React component trees. She works with Lighthouse, Web Vitals, and code splitting strategies.",
+    "skills": ["React", "Lighthouse", "Web Vitals", "Webpack", "Code Splitting"]
+  },
+  {
+    "name": "Ivan Petrov",
+    "role": "Full-stack React Developer",
+    "isVerified": false,
+    "expertise": "Frontend + Backend",
+    "timezone": "UTC+03:00",
+    "location": "Russia",
+    "memberSince": "April 16, 2020",
+    "fullDescription": "Ivan has extensive experience with the MERN stack. He delivers end-to-end apps, optimizes MongoDB queries, and deploys with Docker & CI/CD pipelines.",
+    "skills": ["React", "Node.js", "MongoDB", "Express", "Docker", "CI/CD"]
+  }
+]
